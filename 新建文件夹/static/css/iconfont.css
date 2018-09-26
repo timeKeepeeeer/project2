@@ -1,0 +1,164 @@
+
+@font-face {font-family: "icomoon";
+  src: url('../fonts/icomoon.eot?t=2018072101'); /* IE9*/
+  src: url('../fonts/icomoon.eot?t=2018072101#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/icomoon.woff?t=2018072101') format('woff'), /* chrome, firefox */
+  url('../fonts/icomoon.ttf?t=2018072101') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/icomoon.svg?t=2018072101#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.icomoon {
+  font-family:"icomoon";
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.teld_qq:before {
+  content: "\e900";
+}
+.teld_mbp:before {
+  content: "\e901";
+}
+.teld_recording:before {
+  content: "\e913";
+}
+.teld_kbms:before {
+  content: "\e914";
+}
+.teld_spms:before {
+  content: "\e915";
+}
+.teld_baidu:before {
+  content: "\e91b";
+  color: #2319dc;
+}
+.teld_wx:before {
+  content: "\e91c";
+  color: #4cb134;
+}
+.teld_zfb:before {
+  content: "\e91d";
+  color: #07a0f8;
+}
+.teld_cm:before {
+  content: "\e91f";
+}
+.teld_newcms:before {
+  content: "\e920";
+}
+.teld_ams:before {
+  content: "\e921";
+}
+.teld_appentry:before {
+  content: "\e922";
+}
+.teld_atms:before {
+  content: "\e923";
+}
+.teld_base:before {
+  content: "\e924";
+}
+.teld_bdp:before {
+  content: "\e925";
+}
+.teld_bi:before {
+  content: "\e926";
+}
+.teld_boss:before {
+  content: "\e927";
+}
+.teld_bss:before {
+  content: "\e928";
+}
+.teld_cims:before {
+  content: "\e929";
+}
+.teld_com:before {
+  content: "\e92a";
+}
+.teld_cp:before {
+  content: "\e92b";
+}
+.teld_dp:before {
+  content: "\e92c";
+}
+.teld_em:before {
+  content: "\e92d";
+}
+.teld_ems:before {
+  content: "\e92e";
+}
+.teld_ems2:before {
+  content: "\e92e";
+}
+.teld_evr:before {
+  content: "\e92f";
+}
+.teld_evrnew:before {
+  content: "\e92f";
+}
+.teld_inward:before {
+  content: "\e930";
+}
+.teld_log:before {
+  content: "\e931";
+}
+.teld_mms:before {
+  content: "\e932";
+}
+.teld_newmallbmsvue:before {
+  content: "\e933";
+}
+.teld_newpay:before {
+  content: "\e934";
+}
+.teld_newsms:before {
+  content: "\e935";
+}
+.teld_newsys:before {
+  content: "\e936";
+}
+.teld_om:before {
+  content: "\e937";
+}
+.teld_open:before {
+  content: "\e938";
+}
+.teld_openms:before {
+  content: "\e939";
+}
+.teld_oss:before {
+  content: "\e93a";
+}
+.teld_outward:before {
+  content: "\e93b";
+}
+.teld_rp:before {
+  content: "\e93c";
+}
+.teld_saas:before {
+  content: "\e93d";
+}
+.teld_saas2:before {
+  content: "\e93e";
+}
+.teld_set:before {
+  content: "\e93f";
+}
+.teld_tcs:before {
+  content: "\e940";
+}
+.teld_trace:before {
+  content: "\e941";
+}
+.teld_ttp:before {
+  content: "\e942";
+}
+.teld_vm:before {
+  content: "\e943";
+}
+.teld_wlms:before {
+  content: "\e944";
+}

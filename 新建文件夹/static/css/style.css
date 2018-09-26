@@ -1,0 +1,10 @@
+.ec-main {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1001;
+  overflow: auto;
+  background: rgba(188,182,182,0.5);
+}
